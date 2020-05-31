@@ -1,0 +1,13 @@
+C:\Users\jyf96\Documents\MyProject\SoundTest\obj\Debug\netcoreapp3.1\SoundTest.csprojAssemblyReference.cache
+C:\Users\jyf96\Documents\MyProject\SoundTest\obj\Debug\netcoreapp3.1\SoundTest.AssemblyInfoInputs.cache
+C:\Users\jyf96\Documents\MyProject\SoundTest\obj\Debug\netcoreapp3.1\SoundTest.AssemblyInfo.cs
+C:\Users\jyf96\Documents\MyProject\SoundTest\obj\Debug\netcoreapp3.1\SoundTest.csproj.CoreCompileInputs.cache
+C:\Users\jyf96\Documents\MyProject\SoundTest\bin\Debug\netcoreapp3.1\SoundTest.exe
+C:\Users\jyf96\Documents\MyProject\SoundTest\bin\Debug\netcoreapp3.1\SoundTest.deps.json
+C:\Users\jyf96\Documents\MyProject\SoundTest\bin\Debug\netcoreapp3.1\SoundTest.runtimeconfig.json
+C:\Users\jyf96\Documents\MyProject\SoundTest\bin\Debug\netcoreapp3.1\SoundTest.runtimeconfig.dev.json
+C:\Users\jyf96\Documents\MyProject\SoundTest\bin\Debug\netcoreapp3.1\SoundTest.dll
+C:\Users\jyf96\Documents\MyProject\SoundTest\bin\Debug\netcoreapp3.1\SoundTest.pdb
+C:\Users\jyf96\Documents\MyProject\SoundTest\obj\Debug\netcoreapp3.1\SoundTest.dll
+C:\Users\jyf96\Documents\MyProject\SoundTest\obj\Debug\netcoreapp3.1\SoundTest.pdb
+C:\Users\jyf96\Documents\MyProject\SoundTest\obj\Debug\netcoreapp3.1\SoundTest.genruntimeconfig.cache
